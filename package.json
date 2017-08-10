@@ -1,0 +1,25 @@
+{
+  "name": "chat-bot-sample",
+  "version": "1.0.0",
+  "description": "Chat Bot Sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuwali/chat-bot-sample.git"
+  },
+  "author": "kuwali",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kuwali/chat-bot-sample/issues"
+  },
+  "homepage": "https://github.com/kuwali/chat-bot-sample#readme",
+  "dependencies": {
+    "@line/bot-sdk": "^2.0.0",
+    "bluebird": "^3.5.0",
+    "dotenv": "^4.0.0",
+    "express": "^4.15.4"
+  }
+}
